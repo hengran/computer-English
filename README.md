@@ -6,6 +6,17 @@ click here [Introduction](iNTRO.md)。
 ## The test uses linked images
 [![baidu](baidu.png)](https://baidu.com.cn)
 ### arithmetic
+    
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+> 
+>test   
+this one is testing **bold** and *Italic*   
+| one | two | there |
+| ------ | ------ | ------ |
+| long | short |longer |
+| ~~delete~~ | **bold** | *Italic* |
 #### main code
 
  ```
@@ -68,17 +79,7 @@ click here [Introduction](iNTRO.md)。
     
     
     
-    
-> Dorothy followed her through many of the beautiful rooms in her castle.
->
-> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
-> 
->test   
-this one is testing **bold** and *Italic*   
-| one | two | there |
-| ------ | ------ | ------ |
-| long | short |longer |
-| ~~delete~~ | **bold** | *Italic* |
+
 
 
 
