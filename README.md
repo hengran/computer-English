@@ -13,7 +13,11 @@ click here [Introduction](iNTRO.md)。
 > 
 >test  <br> 
 
+<hr/>
+
 this one is testing **bold** and *Italic*   
+
+<hr/>
 
 | one | two | there |
 | ------ | ------ | ------ |
