@@ -7,7 +7,9 @@ click here [Introduction](iNTRO.md)。
 [![baidu](baidu.png)](https://baidu.com.cn)
 ### arithmetic
 #### main code
-```void longestPalindrome(string s) {
+
+ ```
+   void longestPalindrome(string s) {
         int len=s.size();
         vector<char>str;
         str.push_back('&');
@@ -60,7 +62,13 @@ click here [Introduction](iNTRO.md)。
         	  
         }
         cout<<pl<<endl;
-    }```   
+    }
+    ```
+
+    
+    
+    
+    
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
