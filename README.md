@@ -4,7 +4,8 @@ click here [Introduction](iNTRO.md)。
 ## The test uses local images
 ![picture](001.png)
 ## The test uses linked images
-[![baidu](baidu.png)](https://baidu.com.cn)
+[![baidu](baidu.png)](https://baidu.com.cn)  
+
 ### arithmetic
     
 > The horse-drawn carriage algorithm reduces the time complexity of solving the longest echo substring to O(N), although it also sacrifices part of the space, and its space complexity is O(N), but the cleverness of its algorithm is still worth learning and reference
