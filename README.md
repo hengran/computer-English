@@ -1,9 +1,9 @@
 # computer-English
 ##  Introduction
 click here [Introduction](iNTRO.md)。
-## The test uses local images
+## The logo of the project
 ![picture](001.png)
-## The test uses linked images
+## For more information about the algorithm, please click
 [![baidu](baidu.png)](https://baidu.com.cn)  
 
 ### arithmetic
