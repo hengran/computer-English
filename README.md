@@ -29,8 +29,9 @@ The horse-drawn carriage algorithm reduces the time complexity of solving the lo
 - KMP
 - manacher
   
-1.EX_KMP
-2.SAM
+1.EX_KMP  
+2.automatic mechanism  
+3.SAM
 _________________________________________________________________________________________________________________________________________________________________________________
 #### main code
 
