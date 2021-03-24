@@ -11,4 +11,4 @@ When solving the problem of the longest echo substring, the general idea is to c
 ####
  [Official boss explains](https://www.jianshu.com/p/392172762e55)
  <br/>
- [back to readme](README.md)。
+ [back to readme](README.md)
