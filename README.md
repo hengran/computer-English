@@ -18,7 +18,7 @@ The horse-drawn carriage algorithm reduces the time complexity of solving the lo
 <hr/>  
 
 
-###  step
+###  steps
 
 | one | two | there |
 | ------ | ------ | ------ |
