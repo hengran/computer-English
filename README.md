@@ -7,22 +7,21 @@ click here [Introduction](iNTRO.md)。
 [![baidu](baidu.png)](https://baidu.com.cn)
 ### arithmetic
     
-> Dorothy followed her through many of the beautiful rooms in her castle.
->
-> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+> The horse-drawn carriage algorithm reduces the time complexity of solving the longest echo substring to O(N), although it also sacrifices part of the space, and its space complexity is O(N), but the cleverness of its algorithm is still worth learning and reference
 > 
 >test  <br> 
 
 <hr/>
 
-this one is testing **bold** and *Italic*   
+The horse-drawn carriage algorithm reduces the time complexity of solving the longest echo substring to **O(N)**, although it also *sacrifices part of the space*, and its space complexity is O(N), but the cleverness of its algorithm is still worth learning and reference
 
 <hr/>
+#### step
 
 | one | two | there |
 | ------ | ------ | ------ |
-| long | short |longer |
-| ~~delete~~ | **bold** | *Italic* |
+| becomes an odd(~~even~~) string | Loop through each character to find the **maximum radius** |get the *result* |
+
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
