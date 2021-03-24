@@ -29,7 +29,7 @@ The horse-drawn carriage algorithm reduces the time complexity of solving the lo
 _________________________________________________________________________________________________________________________________________________________________________________
 #### main code
 
- ```
+ ``` C++
    void longestPalindrome(string s) {
         int len=s.size();
         vector<char>str;
