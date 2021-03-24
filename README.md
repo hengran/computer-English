@@ -15,8 +15,10 @@ click here [Introduction](iNTRO.md)。
 
 The horse-drawn carriage algorithm reduces the time complexity of solving the longest echo substring to **O(N)**, although it also *sacrifices part of the space*, and its space complexity is O(N), but the cleverness of its algorithm is still worth learning and reference
 
-<hr/>
-#### step
+<hr/>  
+
+
+###  step
 
 | one | two | there |
 | ------ | ------ | ------ |
