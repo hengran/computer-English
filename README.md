@@ -27,7 +27,8 @@ The horse-drawn carriage algorithm reduces the time complexity of solving the lo
 ### The main algorithm
 - Hash
 - KMP
-- manacher  
+- manacher
+  
 1.EX_KMP
 2.SAM
 _________________________________________________________________________________________________________________________________________________________________________________
